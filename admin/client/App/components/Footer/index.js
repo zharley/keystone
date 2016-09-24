@@ -44,7 +44,6 @@ var Footer = React.createClass({
 					>
 						{brand + (appversion ? (' ' + appversion) : '')}
 					</a>
-					<span> version {version}.</span>
 					{this.renderUser()}
 				</Container>
 			</footer>
