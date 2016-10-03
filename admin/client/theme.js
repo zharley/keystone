@@ -59,13 +59,13 @@ theme.color = {
 	text:                '#212121',
 
 	// contextual
-	success:             '#34c240',
-	create:              '#34c240', // alias for success
+	success:             '#388E3C',
+	create:              '#448AFF', // alias for success
 	primary:             '#616161',
 	info:                '#616161', // alias for primary
-	warning:             '#FA3',
-	danger:              '#d64242',
-	error:               '#d64242', // alias for danger
+	warning:             '#FF9800',
+	danger:              '#F44336',
+	error:               '#F44336', // alias for danger
 
 	// neutrals
 	gray90:              '#1A1A1A',
